@@ -6,8 +6,6 @@ First of all fork the repository and then clone it to your local machine.
 ## Git Practice Tasks
 Just make a plain html, no need to add any css or js. Just add a heading and a paragraph. Then add, commit and push the changes to the remote repository.
 <br>
-Here are some tasks that you can assign to your team members to practice git commands:
-
 - Shaunak: Create a new branch called "feature-login" and add a login page to the project. Once done, push the changes to the remote repository.
 
 - Jagruti: Create a new branch called "feature-signup" and add a signup page to the project. Once done, push the changes to the remote repository.
