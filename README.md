@@ -15,3 +15,5 @@ Just make a plain html, no need to add any css or js. Just add a heading and a p
 - Dhiraj: Create a new branch called "feature-profile" and add a profile page to the project. Once done, push the changes to the remote repository.
 
 After each team member has completed their task, they can create a pull request to merge their changes into the main branch. This will allow them to practice collaborating and resolving merge conflicts.
+i start to bulid project on disaster mangement
+my role is to build profile page of html
